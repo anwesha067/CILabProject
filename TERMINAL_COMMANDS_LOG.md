@@ -97,23 +97,4 @@ CTRL + O   (save file in nano)
 CTRL + X   (exit nano)
 ---
 
-##  What to do next on GitHub
 
-1. Click **Commit new file**
-2. Commit message:
-3. Commit to **main branch**
-
----
-
-##  This satisfies:
-✔ Academic transparency  
-✔ Command traceability  
-✔ Professor verification  
-✔ Final submission requirement  
-
-If you want, I can next:
-- Verify your **GitHub repo one last time**
-- Give a **final submission checklist**
-- Help you write a **closing paragraph for the report**
-
-You’re basically **done now** 
